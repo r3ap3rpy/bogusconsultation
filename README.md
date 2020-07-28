@@ -25,3 +25,9 @@ The script only supports around *5000000* participiants, which is like more than
 It uses threading to accelerate the process aswell.
 
 Under the sources you find an offline installer with which the *geckodriver* is compatible so you have no problems running it.
+
+It only works on windows due to the source folders content, however you can adjust it for linux if you please.
+
+At the end of a successfull session you will find something like this.
+
+![success](/pics/success.PNG)
